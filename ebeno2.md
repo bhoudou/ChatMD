@@ -1,5 +1,5 @@
 ---
-title: Jeu de rôle - Client : Table de chevet
+title: "Jeu de rôle - Client : Table de chevet"
 author: CAP Ébénisterie
 language: fr
 showUserMessages: true
